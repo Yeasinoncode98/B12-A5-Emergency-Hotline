@@ -86,3 +86,5 @@ function getTime() {
 
   return `${hh}:${m}:${s}`;
 }
+
+// End here
